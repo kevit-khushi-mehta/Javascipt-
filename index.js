@@ -24,6 +24,7 @@ fetch("https://reqres.in/api/users?page=1&&per_page=15")
         info.appendChild(lastname);
         rowdiv.appendChild(info);
         usercontent.append(rowdiv);
+        
     })
 })
 
